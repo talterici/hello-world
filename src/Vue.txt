@@ -1,0 +1,17 @@
+
+4.80
+	Semantic UI
+	Documentation:  semantic-ui.com
+	
+	Install from CDN  (single CSS file)
+	Download:  cdnjs.com
+	Get the css file (semantic.min.css)
+	Add link to index.html
+
+4.82
+	Imgur
+	imgur.com
+	
+
+4.91
+	!!state.token
